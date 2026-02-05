@@ -60,9 +60,9 @@ logs/
 *.log
 
 # Docker
-Dockerfile
-docker-compose*.yaml
-.dockerignore
+docker/Dockerfile
+docker/docker-compose*.yaml
+docker/.dockerignore
 
 # CI/CD
 .github/
