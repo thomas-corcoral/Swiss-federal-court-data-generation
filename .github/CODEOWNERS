@@ -2,17 +2,17 @@
 # These owners will be requested for review when someone opens a pull request.
 
 # Source code
-/src/ @thomas-corcoral/maintainers
+/src/ @thomas-corcoral
 
 # Tests
-/tests/ @thomas-corcoral/maintainers
+/tests/ @thomas-corcoral
 
 # CI/CD configuration
-/.github/ @thomas-corcoral/maintainers
+/.github/ @thomas-corcoral
 
 # Docker configuration
-/docker/ @thomas-corcoral/maintainers
+/docker/ @thomas-corcoral
 
 # Documentation
-*.md @thomas-corcoral/maintainers
-/docs/ @thomas-corcoral/maintainers
+*.md @thomas-corcoral
+/docs/ @thomas-corcoral
