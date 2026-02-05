@@ -11,7 +11,7 @@ permissions:
 
 env:
   PYTHON_VERSION: "3.11"
-  UV_VERSION: "0.4.0"
+  UV_VERSION: "0.9.30"
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
 
