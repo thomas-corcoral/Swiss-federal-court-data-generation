@@ -1,9 +1,6 @@
 # CODEOWNERS file for Swiss Federal Court Data Generation
 # These owners will be requested for review when someone opens a pull request.
 
-# Default owners for everything in the repo
-* @thomas-corcoral/maintainers
-
 # Source code
 /src/ @thomas-corcoral/maintainers
 
